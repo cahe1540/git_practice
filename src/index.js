@@ -7,6 +7,9 @@ import Wrapper from "./Wrapper";
 ReactDOM.render(
   <React.StrictMode>
     <Wrapper isPreAp={true}></Wrapper>
+    <div>
+      <h1 className="HELLO-WORLD">Hello World!!!!!</h1>
+    </div>
   </React.StrictMode>,
   document.getElementById("root")
 );
