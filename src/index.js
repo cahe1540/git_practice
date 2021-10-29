@@ -9,6 +9,7 @@ ReactDOM.render(
     <Wrapper isPreAp={true}></Wrapper>
     <div>
       <h1 className="HELLO-WORLD">Hello World!!!!!</h1>
+      <h2 className="HELLO-WORLD">NO!!</h2>
     </div>
   </React.StrictMode>,
   document.getElementById("root")
